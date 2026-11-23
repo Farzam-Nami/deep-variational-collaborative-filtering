@@ -212,7 +212,7 @@ This project is based on the research paper that introduced the deep variational
 
 Bobadilla, J., Ortega, F., Gutiérrez, A., et al. (2023). Deep variational models for collaborative filtering-based recommender systems. Neural Computing and Applications, 35, 7817–7831. https://doi.org/10.1007/s00521-022-08088-2
 
-BibTeX:
+```bibtex
 @article{bobadilla2023deepvariational,
   title   = {Deep variational models for collaborative filtering-based recommender systems},
   author  = {Bobadilla, Jes{'u}s and Ortega, Fernando and Guti{'e}rrez, Abraham and others},
@@ -222,7 +222,7 @@ BibTeX:
   year    = {2023},
   doi     = {10.1007/s00521-022-08088-2}
 }
-
+```
 If you use MovieLens 1M, cite:
 
 Harper, F. M., & Konstan, J. A. (2015). The MovieLens Datasets: History and Context. ACM Transactions on Interactive Intelligent Systems, 5(4), Article 19. https://doi.org/10.1145/2827872
